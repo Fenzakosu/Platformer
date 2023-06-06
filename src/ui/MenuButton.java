@@ -79,7 +79,7 @@ public class MenuButton {
 
 	public void resetBools() {
 		mouseOver = false;
-		mousePressed = true;
+		mousePressed = false;
 	}
 
 	public Rectangle getBounds() {
